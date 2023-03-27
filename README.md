@@ -20,7 +20,7 @@ The client will send 5 put & 5 delete to coordinator, all server you running wil
 
 
 
-![image-20230327125823078](/Users/huang/Desktop/6650 Distributed System/project/two-phase-commit/assets/image-20230327125823078.png)
+![image-20230327125823078](/assets/image-20230327125823078.png)
 
 ### Run with Jar file
 
