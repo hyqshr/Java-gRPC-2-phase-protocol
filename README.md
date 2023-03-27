@@ -26,7 +26,7 @@ The client will send 5 put & 5 delete to coordinator, all server you running wil
 
 Find the Jar file of coordinator, server and client. Allow parallel run of server, and then run coordinator, server (you can run multiple instances) and finally client.
 
-<img src="/Users/huang/Desktop/6650 Distributed System/project/two-phase-commit/assets/image-20230327130454659.png" alt="image-20230327130454659" style="zoom:67%;" />
+<img src="/assets/image-20230327130454659.png" alt="image-20230327130454659" style="zoom:67%;" />
 
 
 
