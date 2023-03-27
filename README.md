@@ -2,8 +2,6 @@
 
 This project implements a Java threaded and **distributed** **gRPC** key-value server application with **two-phase protocol(2PC)**. You can run as many servers as you want and 2PC will ensure all server have the same data and update/abort changes in the same time. 
 
-<img src="/Users/huang/Library/Application Support/typora-user-images/image-20230323210914149.png" alt="image-20230323210914149" style="zoom:67%;" /> 
-
 ### How to run this application
 
 I use **Java 8 & IntelliJ** for this project
@@ -31,8 +29,6 @@ Find the Jar file of coordinator, server and client. Allow parallel run of serve
 
 
 ### Project Structure
-
-<img src="/Users/huang/Library/Application Support/typora-user-images/image-20230323213342351.png" alt="image-20230323213342351" style="zoom:67%;" />
 
 `client`: Client who sends put/delete request to server
 
