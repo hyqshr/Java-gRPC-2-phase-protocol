@@ -52,7 +52,7 @@ If everything go as expected you can see something like this:
 
 
 
-<img src="/Users/huang/Desktop/6650 Distributed System/project/two-phase-commit/assets/image-20230327130315962.png" alt="image-20230327130315962" style="zoom:67%;" />
+<img src="/assets/image-20230327130315962.png" alt="image-20230327130315962" style="zoom:67%;" />
 
 
 
